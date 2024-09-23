@@ -30,3 +30,5 @@ def Validacion(correo):
     print(f"De los {total} correos, hay un total de: Buenas = {Buenas} y Malas = {Malas}")
         
 Validacion(correo)
+
+# Jean Carlos Arias, estuvo aqui
